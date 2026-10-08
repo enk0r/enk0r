@@ -19,7 +19,7 @@ and start looking for bugs.
 </pre>
 
 <br clear="left">
-### 🧭 On the horizon
+🧭 On the horizon 
 
 Moving to Linux and learning neuralese.<br>
 One of those has better documentation.
