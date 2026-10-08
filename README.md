@@ -1,3 +1,4 @@
+<img src="./profile.png" width="35%" align="left" alt="enk0r at the computer">
 ### 👋 Hey, I'm `enk0r`
 
 **Vibe coder, bug hunter, and content creator.**
@@ -16,6 +17,7 @@ and start looking for bugs.
 🐧 Next stop: Linux
 </pre>
 
+<br clear="left">
 ### 🧭 On the horizon
 
 Moving to Linux and learning neuralese.<br>
