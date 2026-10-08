@@ -1,5 +1,6 @@
 <img src="./profile.png" width="35%" align="left" alt="enk0r at the computer">
-### 👋 Hey, I'm `enk0r`
+
+Hey, I'm `enk0r`
 
 **Vibe coder, bug hunter, and content creator.**
 
