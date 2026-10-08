@@ -18,14 +18,13 @@ and start looking for bugs.
 🐧 Next stop: Linux
 </pre>
 
-<br clear="left">
-🧭 On the horizon 
+<br clear="all">
+
+<img src="./typing.gif" width="100" align="right" alt="enk0r">
+
+### 🧭 On the horizon
 
 Moving to Linux and learning neuralese.<br>
 One of those has better documentation.
 
 <br clear="all">
-
-<p align="center">
-  <img src="./typing.gif" width="100" alt="enk0r">
-</p>
