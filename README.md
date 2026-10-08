@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hey, I'm `enk0r`
 
-<!--
-**enk0r/enk0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vibe coder, bug hunter, and content creator.**
 
-Here are some ideas to get you started:
+My two favorite questions:<br>
+“Can I build this?” and “What happens if I try this?”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI to turn ideas into software — then switch sides<br>
+and start looking for bugs.
+
+**This GitHub is where I keep what comes out of that process.**
+
+<pre>
+⚡ Vibe coding • bug hunting • content creation
+🤖 Kimi Code • GPT • Claude
+🐧 Next stop: Linux
+</pre>
+
+### 🧭 On the horizon
+
+Moving to Linux and learning neuralese.<br>
+One of those has better documentation.
